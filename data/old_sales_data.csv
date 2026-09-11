@@ -1,0 +1,4 @@
+transaction_id,date,product,category,quantity,price,sales_amount
+1,2026-08-01,Laptop,Electronics,2,50000,100000
+2,2026-08-02,Phone,Electronics,1,30000,30000
+3,2026-08-03,Mouse,Accessories,3,800,2400
